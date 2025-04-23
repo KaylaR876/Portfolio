@@ -18,3 +18,5 @@
     <td>Project Description</td>
   </tr>
 </table>
+
+<h2>Certifications</h2>
