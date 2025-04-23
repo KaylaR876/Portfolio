@@ -11,7 +11,7 @@
 <table>
   <tr>
     <th><img src="sampleimage.png" alt="webscraping image"></th>
-    <td>In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including Books to Scrape and MathJobs.</td>
+    <td>In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including <a href="https://books.toscrape.com/index.html">Books to Scrape</a> and <a href="https://www.mathjobs.org/jobs/list">MathJobs</a>.</td>
     <td><a href="https://github.com/KaylaR876/WebScraping">Link</a></td>
   </tr>
   <tr>
