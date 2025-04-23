@@ -10,8 +10,9 @@
 <h2>Projects</h2>
 <table>
   <tr>
-    <th>Project Image</th>
-    <td>Project Description</td>
+    <th><img src="sampleimage.png" alt="webscraping image"></th>
+    <td>In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including Books to Scrape and MathJobs.</td>
+    <td><a href="https://github.com/KaylaR876/WebScraping">Link</a></td>
   </tr>
   <tr>
     <th>Project Image</th>
