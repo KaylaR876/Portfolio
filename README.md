@@ -17,6 +17,7 @@
   <tr>
     <th>Project Image</th>
     <td>Project Description</td>
+    <td></td>
   </tr>
 </table>
 
