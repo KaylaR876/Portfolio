@@ -3,7 +3,6 @@
 
 <h2>Education</h2>
 <ul>
-  <li>Father Yermo High School</li>
   <li>University of the Incarnate Word (Current Sophomore)</li>
 </ul>
 
